@@ -1,6 +1,6 @@
 # How to view
  1. Get clone from given repo
- 2. npm install
+ 2. npx lerna bootstrap --hoist
  3. npm start
  ---
  # How it was done
